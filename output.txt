@@ -1,0 +1,35 @@
+Welcome to the fabulous Snake game!!
+
+Turn: 1 | Player: 1 | Start: 1 | Roll: 1 | Square: N | End: 2
+Turn: 2 | Player: 2 | Start: 1 | Roll: 3 | Square: N | End: 4
+Turn: 3 | Player: 3 | Start: 1 | Roll: 5 | Square: N | End: 6
+-------------------------------
+Turn: 4 | Player: 1 | Start: 2 | Roll: 3 | Square: N | End: 5
+Turn: 5 | Player: 2 | Start: 4 | Roll: 1 | Square: N | End: 5
+Turn: 6 | Player: 3 | Start: 6 | Roll: 6 | Square: N | End: 12
+-------------------------------
+Turn: 7 | Player: 1 | Start: 5 | Roll: 5 | Square: N | End: 10
+Turn: 8 | Player: 2 | Start: 5 | Roll: 6 | Square: N | End: 11
+Turn: 9 | Player: 3 | Start: 12 | Roll: 3 | Square: N | End: 15
+-------------------------------
+Turn: 10 | Player: 1 | Start: 10 | Roll: 3 | Square: N | End: 13
+Turn: 11 | Player: 2 | Start: 11 | Roll: 6 | Square: N | End: 17
+Turn: 12 | Player: 3 | Start: 15 | Roll: 4 | Square: N | End: 19
+-------------------------------
+Turn: 13 | Player: 1 | Start: 13 | Roll: 2 | Square: N | End: 15
+Turn: 14 | Player: 2 | Start: 17 | Roll: 2 | Square: N | End: 19
+Turn: 15 | Player: 3 | Start: 19 | Roll: 4 | Square: N | End: 23
+-------------------------------
+Turn: 16 | Player: 1 | Start: 15 | Roll: 3 | Square: N | End: 18
+Turn: 17 | Player: 2 | Start: 19 | Roll: 6 | Square: N | End: 25
+Turn: 18 | Player: 3 | Start: 23 | Roll: 5 | Square: N | End: 28
+-------------------------------
+Turn: 19 | Player: 1 | Start: 18 | Roll: 5 | Square: N | End: 23
+Turn: 20 | Player: 2 | Start: 25 | Roll: 6 | Square: N | End: 31
+Turn: 21 | Player: 3 | Start: 28 | Roll: 5 | Square: N | End: 33
+-------------------------------
+Turn: 22 | Player: 1 | Start: 23 | Roll: 1 | Square: N | End: 24
+Turn: 23 | Player: 2 | Start: 31 | Roll: 2 | Square: N | End: 33
+Turn: 24 | Player: 3 | Start: 33 | Roll: 5 | Square: N | End: 38
+Player 3 wins!
+-- GAME OVER --
